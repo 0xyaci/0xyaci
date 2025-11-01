@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,html,css,js,lua,php,git,npm,github,visualstudio,vscode,vscodium,neovim,emacs,bash,powershell,windows,linux,ubuntu,docker,mysql,robloxstudio,androidstudio,haxe,stackoverflow,discord,discordjs,firebase,replit,obsidian,ps,pr,blender&theme=dark" />
-  </a> />
+  </a> 
 </p>
 
 ---
