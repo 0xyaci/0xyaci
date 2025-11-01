@@ -8,7 +8,7 @@
   <table>
     <tr>
       <td><i>Profile views</i></td>
-      <td><img src="https://moe-counter.glitch.me/get/@:0xyaci"  /></td>
+      <td><img src="https://count.getloli.com/get/@:0xyaci" alt="Profile views" /></td>
     </tr>
   </table>
 </div>
