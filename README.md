@@ -4,11 +4,14 @@
   <i>available</i><br>
 </p>
 <br>
-<p align="center">
-  <i>Profile views</i><br>
-  <img src="https://ipacel.cc/+/MoeCounter2/?name=0xyaci_GitHub&min_num_length=3" align="right" /> 
-  <br>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><i>Profile views</i></td>
+      <td><img src="https://ipacel.cc/+/MoeCounter2/?name=0xyaci_GitHub&min_num_length=3" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
