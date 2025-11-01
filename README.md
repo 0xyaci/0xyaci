@@ -8,7 +8,7 @@
   <table>
     <tr>
       <td><i>Profile views</i></td>
-      <td><img src="https://count.specifix.dev/get/@0xyaci?theme=rule34&padding=4&max_combo=4" alt="Profile views" /></td>
+      <td><img src="https://ipacel.cc/+/MoeCounter2/?name=0xyaci&min_num_length=4" alt="Profile views" /></td>
     </tr>
   </table>
 </div>
