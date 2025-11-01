@@ -39,8 +39,8 @@
 </p>
 
   <p align="center">
-  <sub><i>KY/S — stay subtle.</i></sub><br>
-  ![Profile views](https://komarev.com/ghpvc/?username=0xyaci&style=flat&color=gray)
+  
+  <img src=(https://komarev.com/ghpvc/?username=0xyaci&style=flat&color=gray) />
 </p>
 
 
