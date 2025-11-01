@@ -8,7 +8,7 @@
   <table>
     <tr>
       <td><i>Profile views</i></td>
-      <td><img src="https://count.getloli.com/get/@:0xyaci" alt="Profile views" /></td>
+      <td><img src="https://ipacel.cc/+/MoeCounter2/?name=ApliNi_GitHub&min_num_length=4" alt="Profile views" /></td>
     </tr>
   </table>
 </div>
