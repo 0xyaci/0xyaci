@@ -3,6 +3,11 @@
 <p align="center">
   <i>available</i><br>
 </p>
+<br>
+<p align="center">
+  <i>Profile views</i><br>
+  <img src="https://ipacel.cc/+/MoeCounter2/?name=0xyaci_GitHub&min_num_length=3" align="right" /> 
+</p>
 
 ---
 
@@ -38,10 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xyaci&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160px" />
 </p>
 
-  <p align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=0xyaci&style=flat&color=gray" />
-</p>
 
 
 ---
