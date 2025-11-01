@@ -4,9 +4,14 @@
   <i>available</i><br>
 </p>
 <br>
-<p align="center">
-  <i>Profile views</i>&nbsp;&nbsp;<img src="https://count.dsrkafuu.net/0xyaci?theme=rule34&render=auto&length=3" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><i>Profile views</i></td>
+      <td><img src="https://moe-counter.glitch.me/get/@:0xyaci"  /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
