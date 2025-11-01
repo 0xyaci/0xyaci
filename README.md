@@ -33,12 +33,16 @@
 
 ---
 
-### GitHub Stats
+### Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xyaci&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160px" />
-  ![](https://visitor-badge.laobi.icu/badge?page_id=0xyaci)
-
 </p>
+
+  <p align="center">
+  <sub><i>KY/S — stay subtle.</i></sub><br>
+  ![Profile views](https://komarev.com/ghpvc/?username=0xyaci&style=flat&color=gray)
+</p>
+
 
 ---
 
