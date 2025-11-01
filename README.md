@@ -23,7 +23,7 @@
 
 ---
 
-### Featured projects
+### Projects that were fun to work on
 | Project | Description | Language |
 |----------|--------------|-----------|
 | [ADBRemoteX](https://github.com/0xyaci/ADBRemoteX) | Windows remote control for Android TVs | C# |
