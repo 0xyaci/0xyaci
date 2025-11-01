@@ -35,7 +35,6 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xyaci&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xyaci&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160px" />
 </p>
 
