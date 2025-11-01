@@ -40,7 +40,7 @@
 
   <p align="center">
   
-  <img src=(https://komarev.com/ghpvc/?username=0xyaci&style=flat&color=gray) />
+  <img src="https://komarev.com/ghpvc/?username=0xyaci&style=flat&color=gray" />
 </p>
 
 
