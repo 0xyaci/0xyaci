@@ -36,8 +36,9 @@
 | Project | Description | Language |
 |----------|--------------|-----------|
 | [ADBRemoteX](https://github.com/0xyaci/ADBRemoteX) | Windows remote control for Android TVs | C# |
-| [password-generator-in-c](https://github.com/0xyaci/password-generator-in-c) | CLI password generator | C |
-| [Discord-News-Bot](https://github.com/0xyaci/Discord-News-Bot) | Bot that posts headlines | Python |
+| [Password Generator in C](https://github.com/0xyaci/password-generator-in-c) | CLI password generator | C |
+| [Crypto Price Tracker](https://github.com/0xyaci/ArrowTracker) | Track the prices of BTC/SOL | JavaScript |
+| [Discord News Bot](https://github.com/0xyaci/Discord-News-Bot) | Bot that posts headlines | Python |
 | [SpamCaller](https://github.com/0xyaci/SpamCaller) | Educational purposes (or wtv) | Python |
 
 ---
