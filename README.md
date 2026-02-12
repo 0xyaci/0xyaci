@@ -16,10 +16,10 @@
 ---
 
 ### About me
-- I make small, functional tools — C#, C, and Python mostly.  
-- I overengineer when bored.  
-- Probably rewriting something that already worked fine.
-- I love playing Factorio and Noita.
+- I make tools — C#, C, and Python mostly.  
+- Cat guy.
+- Intrested in FinTech.  
+- I love Factorio and Noita.
 
 ---
 
