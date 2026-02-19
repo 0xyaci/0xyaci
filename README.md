@@ -26,7 +26,7 @@
 ### Tech I have worked with
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,html,css,js,lua,php,git,npm,github,visualstudio,vscode,vscodium,neovim,bash,powershell,windows,linux,,mysql,androidstudio,stackoverflow,discord,discordjs,replit,ps,pr,blender&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,html,css,js,lua,php,git,npm,github,visualstudio,vscode,vscodium,neovim,bash,powershell,windows,linux,mysql,androidstudio,stackoverflow,discord,discordjs,replit,ps,pr,blender&theme=dark" />
   </a> 
 </p>
 
